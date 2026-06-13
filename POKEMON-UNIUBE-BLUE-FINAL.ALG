@@ -1,6 +1,6 @@
 algoritmo "POKEMON-UNIUBE-BLUE"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Disciplina   : Algotimo e Estrutura de Dados
+// Professor   : Maxwell Gomes da Silva
 
 
 var
