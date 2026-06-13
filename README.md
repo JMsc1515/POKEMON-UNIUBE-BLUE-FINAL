@@ -1,7 +1,5 @@
 # POKEMON UNIUBE BLUE
 
----
-
 RPG de texto baseado em Pokemon Fire Red, desenvolvido em VisuAlg 3.0 para a 46 edicao da Amostra Tec UNIUBE.
 
 ## Sobre o projeto
@@ -9,8 +7,6 @@ RPG de texto baseado em Pokemon Fire Red, desenvolvido em VisuAlg 3.0 para a 46 
 O projeto simula uma jornada Pokemon completa no console, com batalhas por turnos, captura de Pokemon, evolucao do starter, sistema de tipos com vantagens e desvantagens, batalhas contra rivais e ginasios, e cutscenes narrativas em ASCII art.
 
 O jogo foi desenvolvido inteiramente em pseudocodigo utilizando VisuAlg 3.0, dentro da disciplina de Algoritmo e Estrutura de Dados, sob orientacao do professor Maxwell Gomes da Silva.
-
----
 
 ## Funcionalidades
 
